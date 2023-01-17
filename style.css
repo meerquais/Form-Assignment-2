@@ -1,0 +1,120 @@
+body {
+    background-image: url("./pexels-pixabay-66321.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.sub-main{
+    margin: 60px 150px;
+    margin-top: 60x;
+    margin-left: 80px;
+    width: 50%;
+}
+.head{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-weight: bold;
+    margin: 40px 0;
+    font-size: 20px;
+}
+.name label{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: rgb(212, 210, 210);
+    /* font-size: 15px; */
+}
+.inp{
+    display: inline-block;
+    margin: 10px 55px;
+    /* border: 1px solid red; */
+    /* height: 100px; */
+}
+.inp input{
+    height: 30px;
+    padding: -1 20px;
+    border-radius: 2px;
+    outline: none;
+}
+.email label{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: rgb(212, 210, 210);
+    /* font-size: 15px; */
+}
+.inp2{
+    display: inline-block;
+    margin: 10px 45px;
+    /* border: 1px solid red; */
+    /* height: 100px; */
+}
+.inp2 input{
+    height: 30px;
+    padding: 0 20px;
+    width: 183%;
+    border-radius: 2px;
+    outline: none;
+}
+.phone label{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: rgb(212, 210, 210);
+    /* font-size: 15px; */
+}
+.inp3{
+    display: inline-block;
+    margin: 10px 45px;
+    /* border: 1px solid red; */
+    /* height: 100px; */
+}
+.inp3 input{
+    height: 30px;
+    padding: 0 20px;
+    margin: 0 39px;
+    width: 134%;
+    border-radius: 2px;
+    outline: none;
+}
+.option1 label{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: rgb(212, 210, 210);
+    font-size: 12px;
+}
+.sel4{
+    display: inline-block;
+    margin: 10px 30px;
+    /* border: 1px solid red; */
+    /* height: 100px; */
+}
+.sel4 select{
+    height: 30px;
+    padding: 0 20px;
+    margin: 0;
+    width: 150%;
+    border-radius: 2px;
+    outline: none;
+}
+.message1 label{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: rgb(212, 210, 210);
+    font-size: 19px;
+    /* margin-top: 20px; */
+}
+.msg1{
+    margin: 20px 150px;
+}
+textarea{
+    width: 441px; height: 65px;
+}
+
+.sub-main button {
+    margin: 20px 15px;
+    width: 90%;
+    padding: 10px;
+    border: none;
+    background-color: rgb(44, 84, 122);
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+}
